@@ -1,0 +1,7 @@
+Top|L1_Member|L1_Description|L1_DataStorage|L2_Member|L2_Description|L2_DataStorage|L3_Member|L3_Description|L3_DataStorage
+Organization|ABC|ABCDesc|Store|DEF|DEFDesc|DynamicCalc|GHI|GHIDesc|Store
+Organization|ABC|ABCDesc|Store|QQQ|QQQDesc|DynamicCalc|ZZZ|ZZZDesc|Store
+Organization|ABC|ABCDesc|Store|Dept123|Dept123Desc|Store|||
+Organization|XYZ|XYZDesc|Store|ZZZ|ZZZDesc|Store|||
+Organization|No_Organization|No_OrgDesc|LabelOnly||||||
+Organization|J|JDesc|NoCLue||||||
